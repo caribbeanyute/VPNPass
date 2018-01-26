@@ -83,7 +83,7 @@ namespace VPNPass
                             continue;
 
                         writer.WriteLine(line);
-                        //Removes Unnesary lines that were left behin
+                        //Removes blank lines that were left behind.
 
                       
 
@@ -103,39 +103,4 @@ namespace VPNPass
             }
         }
 
-
-
-
-
-
-
-
-
-
-
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ }
